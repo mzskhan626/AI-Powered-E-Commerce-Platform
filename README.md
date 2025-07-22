@@ -147,7 +147,7 @@ npm run dev
 
 ## 📄 License
 
-MIT License — feel free to fork and customize.
+MIT © [Mohammed Khan]
 
 ---
 
