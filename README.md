@@ -133,8 +133,14 @@ npm run dev
 > Add screenshots of:
 - Product Page
   ![alt text](screenshot/productPage.png)
+
+
+
 - Cart Sidebar
-  ![alt text](screenshot/checkout.png)
+
+
+
+   ![alt text](screenshot/checkout.png)
 
 ---
 
